@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix GripCare",
+  "description": "Mobile health platform tracking hand strength, mobility, and fall risk for elderly care with physical therapy support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
